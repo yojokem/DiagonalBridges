@@ -17,6 +17,16 @@ public class UDPSocket implements ISocket {
 	public void broadcast(ByteBuffer buf) {
 		
 	}
+	
+	@Override
+	public void setDataLength(int DATA_LEN) {
+		
+	}
+
+	@Override
+	public void setReceiving(boolean b) {
+		
+	}
 
 	@Override
 	public void close() {

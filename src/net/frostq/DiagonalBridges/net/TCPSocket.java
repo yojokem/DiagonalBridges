@@ -19,6 +19,16 @@ public class TCPSocket implements ISocket {
 	}
 
 	@Override
+	public void setDataLength(int DATA_LEN) {
+		
+	}
+
+	@Override
+	public void setReceiving(boolean b) {
+		
+	}
+	
+	@Override
 	public void close() {
 		
 	}
