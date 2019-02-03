@@ -1,1 +1,6 @@
 # DiagonalBridges
+
+## Introduction
+ This Java program was developed to use move data to clients without server(s) for myself.
+The client(s) has/have to connect to the other client or a repeater that broadcasts the other clients and others that is/are connected to them; And repeat, repeat.
+ These ways could be looked like P2P network. ~Actually, I'm not interested in that.~
