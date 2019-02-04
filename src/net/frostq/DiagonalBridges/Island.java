@@ -11,6 +11,10 @@ public class Island {
 	}
 	
 	public static void main(String[] args) {
-		
+		if(args.length > 1) {
+			
+		} else if(args.length > 2) {
+			
+		}
 	}
 }
